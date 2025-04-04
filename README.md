@@ -16,5 +16,4 @@ This project uses **Machine Learning** to classify sonar signals as either **roc
 ## 📌 How to Run  
 1️⃣ Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/rock-or-mine.git
-cd rock-or-mine
+git clone git https://github.com/Iswar-meher/Machine-Learning-Rock-MIne-.git
